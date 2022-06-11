@@ -1,0 +1,31 @@
+.container{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(9, 10, 8);
+    width: max-content;
+    height: max-content;
+    color: #fff;
+    padding: 10px;
+    margin: auto;
+}
+.container h1{
+    font-size: 70px;
+}
+
+.style{
+    background: rgba(64, 224, 208, 0.781);
+    font-size: 80px;
+    padding: 10px;
+}
+
+.container button{
+    width: 180px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
